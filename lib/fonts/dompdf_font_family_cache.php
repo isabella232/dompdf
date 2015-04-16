@@ -108,11 +108,11 @@
     'italic' => DOMPDF_FONT_DIR . 'DejaVuSerifCondensed-Italic',
     'normal' => DOMPDF_FONT_DIR . 'DejaVuSerifCondensed',
   ),
-  'noto sans cjk jp' => 
+  'mplus' => 
   array (
-    'normal' => DOMPDF_FONT_DIR . 'NotoSansCJKjp-Regular',
-    'bold' => DOMPDF_FONT_DIR . 'NotoSansCJKjp-Bold',
-    'italic' => DOMPDF_FONT_DIR . 'NotoSansCJKjp-Regular',
-    'bold_italic' => DOMPDF_FONT_DIR . 'NotoSansCJKjp-Regular',
+    'normal' => DOMPDF_FONT_DIR . 'mplus-1p-regular',
+    'bold' => DOMPDF_FONT_DIR . 'mplus-1p-bold',
+    'italic' => DOMPDF_FONT_DIR . 'mplus-1p-regular',
+    'bold_italic' => DOMPDF_FONT_DIR . 'mplus-1p-regular',
   ),
 ) ?>
